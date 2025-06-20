@@ -31,6 +31,45 @@ To start the backend server, run:
     npm run server
 ```
 
+## Json-Server API Reference
+
+#### Get user
+
+```http
+  Local : GET http://localhost:3030/user
+  Public: GET https://quota-server-hazel.vercel.app/user
+```
+
+| id       | email    | password | name     |
+| :------- | :------- | :------- | :------- |
+| `number` | `string` | `string` | `string` |
+
+#### Get packages
+
+```http
+  Local : GET http://localhost:3030/packages
+  Public: GET https://quota-server-hazel.vercel.app/packages
+```
+
+| id       | provider | name     | quota    | price    | validity |
+| :------- | :------- | :------- | :------- | :------- | :------- |
+| `number` | `string` | `string` | `string` | `number` | `string` |
+
+## 🔗 Links
+
+Deployment: https://quota-in.vercel.app
+
+#### Login user data
+
+email: paste@gmail.com
+password: 123456
+
+email: agung@gmail.com
+password: 123456
+
+email: widya@gmail.com
+password: 123456
+
 ## Authors
 
 - [@pasteprosmana](https://github.com/mamsky)
