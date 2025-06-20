@@ -35,7 +35,7 @@ To start the backend server, run:
 
 #### Get user
 
-```http
+```bash
   Local : GET http://localhost:3030/user
   Public: GET https://quota-server-hazel.vercel.app/user
 ```
@@ -46,7 +46,7 @@ To start the backend server, run:
 
 #### Get packages
 
-```http
+```bash
   Local : GET http://localhost:3030/packages
   Public: GET https://quota-server-hazel.vercel.app/packages
 ```
