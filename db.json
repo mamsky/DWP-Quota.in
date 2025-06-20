@@ -1,0 +1,144 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "email": "agung@gmail.com",
+      "password": "123456",
+      "name": "Agung Wicaksono"
+    },
+    {
+      "id": 2,
+      "email": "paste@gmail.com",
+      "password": "123456",
+      "name": "Paste Prosmana"
+    },
+    {
+      "id": 3,
+      "email": "widya@gmail.com",
+      "password": "123456",
+      "name": "Widya nugraha"
+    }
+  ],
+  "packages": [
+    {
+      "id": 1,
+      "provider": "Telkomsel",
+      "name": "Internet Sakti 10GB",
+      "quota": "10 GB",
+      "price": 25000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 2,
+      "provider": "Telkomsel",
+      "name": "Combo Sakti 20GB",
+      "quota": "20 GB",
+      "price": 52000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 3,
+      "provider": "Telkomsel",
+      "name": "OMG! 6.5GB",
+      "quota": "6.5 GB",
+      "price": 19000,
+      "validity": "7 Hari"
+    },
+    {
+      "id": 4,
+      "provider": "Indosat",
+      "name": "Freedom Internet 15GB",
+      "quota": "15 GB",
+      "price": 30000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 5,
+      "provider": "Indosat",
+      "name": "Freedom Combo 25GB",
+      "quota": "25 GB",
+      "price": 60000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 6,
+      "provider": "Indosat",
+      "name": "Freedom Kuota Harian 1GB",
+      "quota": "1 GB/hari",
+      "price": 20000,
+      "validity": "7 Hari"
+    },
+    {
+      "id": 7,
+      "provider": "XL",
+      "name": "HotRod 7GB",
+      "quota": "7 GB",
+      "price": 19000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 8,
+      "provider": "XL",
+      "name": "Xtra Combo Lite 10GB",
+      "quota": "10 GB",
+      "price": 30000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 9,
+      "provider": "XL",
+      "name": "Xtra Combo VIP 25GB",
+      "quota": "25 GB",
+      "price": 65000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 10,
+      "provider": "Tri",
+      "name": "AlwaysOn 16GB",
+      "quota": "16 GB",
+      "price": 28000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 11,
+      "provider": "Tri",
+      "name": "Kuota++ 10GB",
+      "quota": "10 GB",
+      "price": 22000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 12,
+      "provider": "Tri",
+      "name": "Happy 6GB",
+      "quota": "6 GB",
+      "price": 17000,
+      "validity": "14 Hari"
+    },
+    {
+      "id": 13,
+      "provider": "Smartfren",
+      "name": "Unlimited Lite",
+      "quota": "Unlimited (FUP 1GB/hari)",
+      "price": 50000,
+      "validity": "28 Hari"
+    },
+    {
+      "id": 14,
+      "provider": "Smartfren",
+      "name": "Super 4G Kuota 10GB",
+      "quota": "10 GB",
+      "price": 30000,
+      "validity": "30 Hari"
+    },
+    {
+      "id": 15,
+      "provider": "Smartfren",
+      "name": "Super 4G Unlimited Harian",
+      "quota": "Unlimited (FUP 500MB/hari)",
+      "price": 20000,
+      "validity": "14 Hari"
+    }
+  ]
+}
